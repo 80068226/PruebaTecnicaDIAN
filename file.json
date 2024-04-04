@@ -1,0 +1,26 @@
+[
+  {
+    "IdPago": 1,
+    "Fecha": "01/02/2024 7:40",
+    "Nombre": "Jesus Daniel",
+    "TipoIdentificacion": "CC",
+    "NumeroIdentificacion": "80068226",
+    "Monto": 9250000
+  },
+  {
+    "IdPago": 2,
+    "Fecha": "05/05/2024 10:15",
+    "Nombre": "Gabriel Castellano",
+    "TipoIdentificacion": "CC",
+    "NumeroIdentificacion": "80456521",
+    "Monto": 8950000
+  },
+  {
+    "IdPago": 3,
+    "Fecha": "04/03/2024 9:00",
+    "Nombre": "Alexander Galvis",
+    "TipoIdentificacion": "CC",
+    "NumeroIdentificacion": "79001822",
+    "Monto": 7250000
+  }
+]

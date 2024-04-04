@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaTecnicaDIAN", "PruebaTecnicaDIAN.csproj", "{647D8D8F-6354-433F-AB55-73165757E1CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionInsertarDB", "..\FunctionInsertarDB\FunctionInsertarDB.csproj", "{369CA54C-BA34-4034-A9B9-82C8EDF199FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{647D8D8F-6354-433F-AB55-73165757E1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647D8D8F-6354-433F-AB55-73165757E1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647D8D8F-6354-433F-AB55-73165757E1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647D8D8F-6354-433F-AB55-73165757E1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{369CA54C-BA34-4034-A9B9-82C8EDF199FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369CA54C-BA34-4034-A9B9-82C8EDF199FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369CA54C-BA34-4034-A9B9-82C8EDF199FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369CA54C-BA34-4034-A9B9-82C8EDF199FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F97D015-951A-40FB-84BA-C147E8C215B2}
+	EndGlobalSection
+EndGlobal
